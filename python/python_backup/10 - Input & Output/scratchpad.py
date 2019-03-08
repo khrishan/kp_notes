@@ -1,1 +1,0 @@
-print('Adelaide'.strip('del')) # it only a partial strip so the answer to this is Adelai
