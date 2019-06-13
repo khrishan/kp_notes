@@ -8,6 +8,10 @@ In addition, if there are any other notes that I think would be useful and benef
 
 Link for the course can be found by clicking [here](https://www.udemy.com/python-the-complete-python-developer-course).
 
+```
+docker run -p 8888:8888 --name kp_notes_python -v "$PWD":/home/jovyan/work/ jupyter/datascience-notebook
+```
+
 Contents of these notes can be found here : 
 
 + [01 - Python Setup](#)
