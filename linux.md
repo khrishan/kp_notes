@@ -12,6 +12,10 @@ alias [NAME_OF_ALIAS]='[COMMAND]'
 source .bash_profile
 ```
 
+# How to Fix Missing Ubuntu Settings Feature
+sudo apt-get install gnome-control-center
+
+
 
 # References
 [https://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/](https://coolestguidesontheplanet.com/make-an-alias-in-bash-shell-in-os-x-terminal/)
